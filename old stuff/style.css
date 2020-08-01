@@ -1,0 +1,18 @@
+h1 {
+	color:#0000FF;
+}
+h2{
+	color:#00CCFF;
+}
+
+body {     
+	font-size: 14px;     
+	font-weight: 300;     
+	font-family: 'Recursive'; 
+}
+body {
+	background-image: url("france2.jpg");
+	min-height: 600px;
+	background-size: cover;
+	background-position: center center;
+}
