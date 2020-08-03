@@ -50,7 +50,7 @@ body {
 
 .header-area{
     background: url(../images/sunset3.jpg);
-    min-height: 600px;
+    min-height: 800px;
     background-size: cover;
     background-position: center center;
 }
@@ -76,7 +76,7 @@ body {
     margin-top: 20px;
 }
 .header-text a:hover{
-    background: yellow;
+    background: lightPink;
     color: #000;
     text-decoration: none;
 }
