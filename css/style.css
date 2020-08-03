@@ -17,7 +17,7 @@ body {
 
 .menu-area h2 a:hover{
     text-decoration: none;
-    color: yellow;
+    color: lightPink;
 }
 .menu-area h2 a{
     display: block;
@@ -40,7 +40,7 @@ body {
 }
 .main-menu ul li a:hover{
     text-decoration: none;
-    color: yellow;
+    color: lightPink;
 }
 
 
