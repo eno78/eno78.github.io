@@ -1,7 +1,7 @@
 body {
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Schoolbell', sans-serif;
+    font-family: 'Lexend Zetta', sans-serif;
 }
 .logo {
 	padding-top: 20px;
@@ -49,7 +49,7 @@ body {
 
 
 .header-area{
-    background: url(../images/sunset2.jpg);
+    background: url(../images/sunset3.jpg);
     min-height: 600px;
     background-size: cover;
     background-position: center center;
