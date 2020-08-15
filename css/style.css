@@ -107,7 +107,7 @@ input[type=submit]:hover {
 /* Style the container/contact section */
 .container2 {
   border-radius: 5px;
- background-color: #FFB6C1;
+background: url(../images/sunset3.jpg);
   padding: 10px;
 }
 
